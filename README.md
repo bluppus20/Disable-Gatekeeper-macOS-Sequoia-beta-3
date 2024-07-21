@@ -1,7 +1,7 @@
 # Disable-Gatekeeper-macOS-Sequoia-beta-3
 
-Disable Gatekeeper macOS Sequoia beta 3 
+Disable Gatekeeper  macOS Sequoia beta 3 
 
-Courtesy of dhinakg (one of the oclp developers).
+Cortesia de dhinakg (um dos desenvolvedores do oclp).
 
-spctl no longer has the ability to enable/disable gatekeeper, this must now be done with configuration profiles.
+O spctl não tem mais a capacidade de ativar/desativar o gatekeeper, agora isso deve ser feito com perfis de configuração.
